@@ -1,0 +1,35 @@
+a) Favor conferir as quebras de página (FEITO)
+b) Favor usar itálico em termos de outros idiomas (FEITO)
+c) Favor rever Resumo. Deveria deixar claro quem é o cliente, qual o principal problema e uma proposta de solução (FEITO)
+d) Favor rever Objetivos Específicos. Parece que vocês não sabem bem o que vão fazer para o cliente. (DEVE SER FEITO COM MAIS UM)
+e) Senti falta do níveis e das funções organizacionais (ESCLARECER COM OCLAIR)
+
+==>Nota: sem nota nesta entrega
+
+Critério usado: 
+=====================
+Formulário para projeto extensionista: faltou
+TAP: precisa definir o escopo
+Resumo: ok 
+Introdução: ok
+
+Metodologia
+-->Objetivos gerais: ok
+
+
+-->Objetivos específicos: precisa melhorar (VER COM OCLAIR)
+-->Justificativa: aqui vocês explicam os motivos que levaram ao desenvolvimento do seu projeto (VER COM OCLAIR)
+
+-->Procedimentos de pesquisa: ok
+
+Pensamento sistêmico
+-->Definição: ok
+-->Metodologia soft: faltou
+-->Organizações orientadas a processos x funções: faltou ()
+
+Sistemas de informação
+-->Definição: ok
+-->Tipos: ok
+-->Componentes: ok
+-->Níveis organizacionais: (FEITO)
+-->Funções organizacionais: (FEITO)
